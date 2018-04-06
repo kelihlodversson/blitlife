@@ -7,7 +7,7 @@ Since I've got a Atari Mega 4, I've been reading up on the Atari ST Blitter and
 what to do with it. Apart from being excellent at copying bitmaps around, it
 does have a few cool tricks up its sleeve.
 
-Could something like Game of Life could be implemented using the BLiTTER?
+Could something like Game of Life be implemented using the BLiTTER?
 
 The rules are simple. The [Wikipedia article on Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) describes them as thus:
 
