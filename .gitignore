@@ -30,6 +30,9 @@
 
 # Executables
 *.exe
+*.prg
+*.ttp
+*.prg
 *.out
 *.app
 *.i*86
@@ -41,6 +44,7 @@
 *.su
 *.idb
 *.pdb
+*.dmp
 
 # Kernel Module Compile Results
 *.mod*
